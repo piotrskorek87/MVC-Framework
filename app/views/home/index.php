@@ -1,0 +1,1 @@
+@extends('../app/views/template/template.php')
